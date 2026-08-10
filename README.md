@@ -52,7 +52,7 @@ Machine-Learning-Project/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/your-Harsh-11-06/your-repository-name.git
 ```
 
 Go to the project directory
