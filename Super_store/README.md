@@ -163,7 +163,7 @@ Super_store/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Super-Store-Sales-Prediction.git
+git clone https://github.com/Harsh-11-06/Super-Store-Sales-Prediction.git
 ```
 
 ### 2. Open the Project Folder
