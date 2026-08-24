@@ -106,7 +106,7 @@ These metrics help determine how well the model predicts student placement.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-Harsh-11-06/Placement-Prediction.git
+git clone https://github.com/Harsh-11-06/Placement-Prediction.git
 ```
 
 ### 2. Open the Project
